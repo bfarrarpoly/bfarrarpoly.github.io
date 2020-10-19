@@ -1,0 +1,23 @@
+
+
+body {
+	color: rbg(255,255,255); background-colour: rgb(150,100,100);
+}
+
+.red {
+	background-color=rgb(200,133,133);
+}
+
+.strikethru {
+	text-decoration: line-through
+
+
+ul border: 3px dotted white; width 400px;
+
+bigger {
+	font-size: 50;
+}
+
+h3 {
+	color: (255,200,200);
+}
